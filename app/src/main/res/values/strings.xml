@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">EcommerceApp</string>
+    <string name="already_a_user_login">Already a user ? Login</string>
+    <string name="not_an_old_user_signup">Not an old user? SignUp</string>
+</resources>
